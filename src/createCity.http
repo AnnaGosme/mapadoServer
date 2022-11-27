@@ -1,0 +1,8 @@
+POST http://localhost:5001/cities
+Content-Type: application/json
+
+{
+   "id": 2,
+    "name": "Montpellier",
+    "reviews": []
+}
